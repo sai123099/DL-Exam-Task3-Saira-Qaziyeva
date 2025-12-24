@@ -5,7 +5,7 @@
 **Seed:** [20240203]
 
 ## Presentation
-https://docs.google.com/presentation/d/1l3Az2QSwpFzTCJ5ZTZFkpA5wf6rysFjj/edit?usp=sharing&ouid=112930185061834755496&rtpof=true&sd=true
+[View Presentation Slides](https://docs.google.com/presentation/d/1l3Az2QSwpFzTCJ5ZTZFkpA5wf6rysFjj/edit?usp=sharing&ouid=112930185061834755496&rtpof=true&sd=true)
 
 ## Dataset
 - **Name:** [CIFAR-10]
